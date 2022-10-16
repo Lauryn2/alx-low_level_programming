@@ -1,2 +1,2 @@
 ### C Programming
-Readme file for dir
+Readme file for 0x01-variables_if_else_while directory
